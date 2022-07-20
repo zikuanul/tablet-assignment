@@ -1,0 +1,126 @@
+.tablet{
+    margin: 5px 5px 5px 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid rgb(255, 184, 6);
+    text-align: center;
+}
+#header-one{
+    margin-top: 80px;
+    font-size: 35px;
+    color: rgb(255, 223, 13);
+    text-align: center;
+ }
+ .one{
+    background-color: rgb(232, 174, 174);
+    display: flex;
+    align-items: center;
+    
+}
+.paragraph-one{
+    font-size: 20px;
+}
+.button-one{
+    height: 30px;
+    width: 100px;
+    background-color: rgba(201, 62, 11, 0.942);
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+.division-one{
+    width: 90%;
+    text-align: center;
+}
+.matches{
+    display: inline;
+    text-align: center;
+    margin-left: 150px;
+    padding-right: 50px; 
+    padding-top: 40px;
+    
+}
+#special{
+    background-color: lightblue;
+}
+.option{
+    display: inline-table;
+    height: 80px;
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    
+}
+.picture .sala-imag img{
+    height: 357px;
+    width: 500px;
+}
+.button-two{
+    height: 30px;
+    width: 65px;
+    text-align: center;
+    background-color: burlywood;
+    border: 2px solid red;
+}
+.for-button{
+    margin-top: 20px;
+    
+}
+.icons{
+    margin-right: 30px;
+}
+.picture{
+    border: 2px solid lightgreen;
+    height: 500px;
+    width: 600px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+.pictures{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    margin-top: 10px;
+    grid-column-gap: 10px;
+    
+}
+.last-button{
+    text-align: center;
+    background-color: rgb(253, 6, 6);
+    color: rgb(9, 91, 91);
+    height: 50px;
+    width: 150px;
+    font-size: 2em;
+    border: 5px solid black;
+    border-radius: 5px;
+
+}
+.view-all{
+  text-align: center;
+  margin-top: 60px;
+}
+footer{
+    background-color: black;
+    margin-top: 20px;
+}
+.foot{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    color: whitesmoke;
+    font-size: 2em;
+    
+}
+.last-heading{
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 30px;
+}
+    
+
+   
